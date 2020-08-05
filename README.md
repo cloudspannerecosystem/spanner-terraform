@@ -36,4 +36,8 @@ Edit the main.tf file and replace `YOUR_PROJECT_ID` with your Google Cloud proje
 Alternatively, a step-by-step tutorial is also
 available as a [codelab](https://codelabs.developers.google.com/codelabs/cloud-spanner-terraform/).
 
+## Issues
 
+Please file bugs and feedback to the Cloud Spanner Terraform resources on the
+[Google Terraform Module](https://github.com/terraform-providers/terraform-provider-google).
+Issues and feedback to the examples are appreciated on this repo.
