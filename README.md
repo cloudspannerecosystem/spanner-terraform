@@ -1,4 +1,4 @@
-# Google Cloud Spanner Terraform
+# Google Cloud Spanner with Terraform
 
 You can use [Terraform](https://terraform.io) to create, manage and delete Cloud Spanner
 resources. Google Terraform modules provide Cloud Spanner support via the following resources:
