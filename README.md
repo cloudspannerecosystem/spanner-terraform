@@ -3,10 +3,10 @@
 You can use [Terraform](https://terraform.io) to create, manage and delete Cloud Spanner
 resources. Google Terraform modules provide Cloud Spanner support via the following resources:
 
-* [google_spanner_instance](https://www.terraform.io/docs/providers/google/r/spanner_instance.html)
-* [google_spanner_instance_iam](https://www.terraform.io/docs/providers/google/r/spanner_database_iam.html)
-* [google_spanner_database](https://www.terraform.io/docs/providers/google/r/spanner_database.html)
-* [google_spanner_database_iam](https://www.terraform.io/docs/providers/google/r/spanner_database_iam.html)
+* [google_spanner_instance](https://www.terraform.io/docs/providers/google/r/spanner_instance)
+* [google_spanner_instance_iam](https://www.terraform.io/docs/providers/google/r/spanner_database_iam)
+* [google_spanner_database](https://www.terraform.io/docs/providers/google/r/spanner_database)
+* [google_spanner_database_iam](https://www.terraform.io/docs/providers/google/r/spanner_database_iam)
 
 ## Authentication
 
